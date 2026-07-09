@@ -30,3 +30,5 @@
     <img src="https://skillicons.dev/icons?i=discord,github,gmail,idea,java,maven,mysql,nginx,linux,postman,npm&theme=light"/>
   </a>
 </p>
+
+![GitHub Contribution Snake](https://raw.githubusercontent.com/awm2077/awm2077/output/github-snake.svg)
